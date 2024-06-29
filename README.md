@@ -2,7 +2,7 @@
 This project involves analyzing the global spread of COVID-19 using the dataset provided.
 
 
-<h1>COVID-19 Data Analysis</h1>
+<h3>COVID-19 Data Analysis</h3>
 
 This project involves analyzing the global spread of COVID-19 using a dataset containing aggregated data of confirmed cases, deaths, and recoveries for various countries. The analysis includes data pre-processing, visualization of global trends, country-specific analysis, comparative analysis, and correlation analysis.
 
